@@ -10,13 +10,17 @@ A web-based version of the popular [2048](https://play2048.co/) puzzle game, bui
 
 The objective of the game is to slide numbered tiles on a grid to combine them and create a tile with the number **2048**.
 
+> [!NOTE]
+> This game currently supported only on Desktop & Laptops.
+> Trying to add functionality, so that it could be playable in smartphones also.
+
 - Use **arrow keys** (↑ ↓ ← →) to move tiles.
 - When two tiles with the same number touch, they **merge into one**.
 - The game ends when there are no valid moves left.
 
 ## 🚀 Demo
 
-👉 
+👉 [Link](https://karthi1048.github.io/2048/)
 
 ## ✨ Features
 
